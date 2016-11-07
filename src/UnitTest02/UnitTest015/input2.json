@@ -1,0 +1,20 @@
+﻿[
+  {
+    "ID": 100,
+    "Name": "Black Jack",
+    "Address": "岬の上",
+    "Age": 33
+  },
+  {
+    "ID": 200,
+    "Name": "ポニョ",
+    "Address": "崖の上",
+    "Age": 3
+  },
+  {
+    "ID": 300,
+    "Name": "金さん",
+    "Address": "日本",
+    "Age": 100
+  }
+]

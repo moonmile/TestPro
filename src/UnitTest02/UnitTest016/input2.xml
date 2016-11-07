@@ -1,0 +1,17 @@
+﻿<Items>
+  <Block ID="100">
+    <Name>Black Jack</Name>
+    <Address>岬の上</Address>
+    <Age>33</Age>
+  </Block>
+  <Block ID="200">
+    <Name>ポニョ</Name>
+    <Address>崖の上</Address>
+    <Age>3</Age>
+  </Block>
+  <Block ID="300">
+    <Name>金さん</Name>
+    <Address>日本</Address>
+    <Age>100</Age>
+  </Block>
+</Items>

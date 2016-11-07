@@ -4,6 +4,11 @@ using System.IO;
 
 namespace UnitTest014
 {
+    /// <summary>
+    /// 問14
+    /// バイナリデータのアクセスを応用して構造体を保存する、以下のメソッドを実装せよ
+    /// </summary>
+
     [TestClass]
     public class UnitTest1
     {

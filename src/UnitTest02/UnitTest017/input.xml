@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Block xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>100</ID>
+  <User>username</User>
+  <Pass>p@ssw0rd</Pass>
+  <UpdateDate>2017-03-04T00:00:00</UpdateDate>
+</Block>
