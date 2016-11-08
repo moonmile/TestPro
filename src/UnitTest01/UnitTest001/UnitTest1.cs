@@ -24,7 +24,7 @@ namespace UnitTest001
         public void 掛け算する()
         {
             var a = new Target();
-            Assert.AreEqual(5, a.Mul(2, 3));
+            Assert.AreEqual(6, a.Mul(2, 3));
             Assert.AreEqual(0, a.Mul(0, 3));
             Assert.AreEqual(0, a.Mul(2, 0));
         }
