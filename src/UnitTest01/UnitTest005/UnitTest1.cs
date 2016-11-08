@@ -18,7 +18,7 @@ namespace UnitTest005
             a.Items = new int [] { 10, 20, 30 };
 
             Assert.AreEqual(3, a.Count);
-            Assert.AreEqual(2, a.GetAt(2));
+            Assert.AreEqual(20, a.GetAt(1));
         }
 
         [TestMethod]
