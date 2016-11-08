@@ -54,9 +54,9 @@ namespace UnitTest010
         public void 逆順でソートする()
         {
             var a = new Target();
-            a.Add("(2) blue");
-            a.Add("(3) apple");
-            a.Add("(1) club");
+            a.Add("blue");
+            a.Add("apple");
+            a.Add("club");
             Assert.AreEqual(3, a.Count);
             a.Reverse();
             Assert.AreEqual("club", a.Pop());
